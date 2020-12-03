@@ -6,20 +6,16 @@
 
     th { 
         background: #fff070; 
-        color: #000;
-    }
-
+        color: #000;}
     td { background: #d0d000;}
-    
-      h2 { 
+    h2 { 
     font-size: 200%;
     padding:10px;
     font-family: Verdana, Arial, Helvetica, sans-serif; 
-    color: #333366;
-   }
-</style>
+    color: #333366;}
+    </style>
 
-    <h2>Список магазинов:</h2>
+    <h2>Магазины:</h2>
     <table border="1">
         <tr>
             <th> Название </th> <th> Адрес </th>
